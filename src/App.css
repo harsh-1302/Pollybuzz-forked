@@ -1,0 +1,16 @@
+#Pollybuzz_image{
+  height: 10%;
+  width: 10%;
+  display: inline;
+  position: relative;
+  left: 5px;
+
+}
+Navbar{
+  float: left;
+  width: 70%;
+}
+
+*{
+  
+}
